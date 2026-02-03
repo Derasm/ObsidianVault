@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 2.md",
+                "file": "Sessions/Session 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 2"
+              "title": "Session 3"
             }
           }
         ]
@@ -202,8 +202,9 @@
   },
   "active": "b0918141e47a77a7",
   "lastOpenFiles": [
-    "Sessions/Session 1.md",
     "Sessions/Session 2.md",
+    "Sessions/Session 3.md",
+    "Sessions/Session 1.md",
     "Welcome.md",
     "Sessions"
   ]
