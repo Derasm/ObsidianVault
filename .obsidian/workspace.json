@@ -1,40 +1,20 @@
 {
   "main": {
-    "id": "d051ca6e9592b985",
+    "id": "520420623138641a",
     "type": "split",
     "children": [
       {
-        "id": "0ca5a44046c9bbd3",
+        "id": "c645f05f917c29fe",
         "type": "tabs",
         "children": [
           {
-            "id": "ce48b422caa70cb0",
+            "id": "26c401ba7df34ecd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPC's/Alak.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Alak"
-            }
-          }
-        ]
-      },
-      {
-        "id": "65b3317e877399c9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7340b60ef4ca4fb5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -43,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "73b23bbb91cc6ba0",
+    "id": "106190fb11677608",
     "type": "split",
     "children": [
       {
-        "id": "33124943deb94663",
+        "id": "1d9b95176e2816de",
         "type": "tabs",
         "children": [
           {
-            "id": "8bef45746c283611",
+            "id": "484178aca8db6249",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +44,7 @@
             }
           },
           {
-            "id": "64adb28851232462",
+            "id": "9daff41f4ed9eb02",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -81,7 +61,7 @@
             }
           },
           {
-            "id": "f101636123414b7d",
+            "id": "e0930cdbccecdc36",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "315330f1b358fd01",
+    "id": "b1aa3b89de100cd1",
     "type": "split",
     "children": [
       {
-        "id": "cd41c219fe1ccd83",
+        "id": "3b479b618ae96176",
         "type": "tabs",
         "children": [
           {
-            "id": "89bd92d6a601035a",
+            "id": "d5405a12c9c258ff",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 2"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "73cffbb5b8e6e376",
+            "id": "a49d82f15405271d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 2"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "7e4e9477e9036e29",
+            "id": "4d640de02c9fc96f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,7 +131,7 @@
             }
           },
           {
-            "id": "d6939e4e7105436f",
+            "id": "d18e8d0739fd538e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -167,18 +145,17 @@
             }
           },
           {
-            "id": "bbda9ca61fde52b0",
+            "id": "bba3fe7e3ca332a3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 2"
+              "title": "Outline"
             }
           }
         ]
@@ -199,33 +176,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "ce48b422caa70cb0",
-  "lastOpenFiles": [
-    "Locations/Citadel Alterain.md",
-    "Characters/NPC's/Alak.md",
-    "Characters/NPC's/Calmont.md",
-    "Characters/PC's/Gommel.md",
-    "Characters/PC's/Darwin.md",
-    "Characters/PC's/Carriss.md",
-    "Characters/PC's/Willow.md",
-    "Characters/PC's",
-    "Characters",
-    "Sessions/Session 1.md",
-    "Locations",
-    "Sessions/Session 3.md",
-    "Characters/NPC's/Voz Lirayne.md",
-    "Sessions/Session 2.md",
-    "Loot/Citadel loot.md",
-    "Images/Pasted image 20260203214108.png",
-    "Images/Pasted image 20260203214026.png",
-    "Images/Pasted image 20260203213929.png",
-    "Images",
-    "Images/Pasted image 20260203213747.png",
-    "Loot",
-    "NPC's/Voz",
-    "Welcome.md",
-    "Factions",
-    "Characters/NPC's",
-    "Sessions"
-  ]
+  "active": "26c401ba7df34ecd",
+  "lastOpenFiles": []
 }

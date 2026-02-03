@@ -1,3 +1,5 @@
 We went to the left side of the keep, and heard a noise up on the ramparts, there we found the rest of the bumblebrashers, being attacked by Calmont. Calmont had controlled the big lizard in the courtyard. We fought and overpowered Calmont and the lizard, Willow got mad at Calmont for and threw him of the ramparts.  
 
 We took Calmont body to the town and reported what we found. We got payed and told the town that the bumblebrashers where saved but they told us they got thrown out from the dungeon since there where some cultist that had moved in. So we went back into the Citadel to have a look at dungeons. In the dungeons we found the deed for the citadel, Darwin opened the deed to read and got the ownership of the citadel and now speaks infernal. We also found that the Alcetta Ring is not a ring but a gate that can transport you to different places. After we found the deed, we got attacked by 4 cultists, and barely survived.
+
+[[Citadel loot#Deed to the Citadel#]]
